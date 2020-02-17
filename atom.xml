@@ -6,9 +6,9 @@ layout: feed
  
  <title>Sidd Malvankar's Blog</title>
  <link href="http://siddheshmalvankar.github.io/atom.xml" rel="self"/>
- <link href="http://siddheshmalvankar.github.io"/>
+ <link href="http://siddheshmalvankar.github.io/blog">
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://siddheshmalvankar.github.io</id>
+ <id>http://siddheshmalvankar.github.io/blog</id>
  <author>
    <name>Sidd Malvankar</name>
    <email>siddheshmalvankar@gmail.com</email>
